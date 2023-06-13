@@ -2,8 +2,10 @@ public class Main{
 
     public static void main(String[] args)
     {
-        float bill = 4;
-        int i = 0;
-        System.out.println(bill);
+        // Declarationde variable 
+        int userAge  =25;
+        userAge %= 9;
+
+        System.out.println(userAge);
     }
 }
